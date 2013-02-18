@@ -1,0 +1,23 @@
+[
+	{
+		date : (2012,5,11),
+		group : 'ICT',
+		docent : 'Rita Wesembeeck',
+		reason : 'due to illness'
+	},{
+		date : (2012,5,16),
+		group : 'Design',
+		docent : 'Guido Croustille',
+		reason : 'on business trip'
+	},{
+		date : (2012,5,16),
+		group : 'ICT',
+		docent : 'Rita Wesembeeck',
+		reason : 'due to illness'
+	},{
+		date : (2012,5,21),
+		group : 'ICT',
+		docent : 'Rita Wesembeeck',
+		reason : 'due to illness'
+	}
+]
